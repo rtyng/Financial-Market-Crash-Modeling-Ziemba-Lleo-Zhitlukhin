@@ -1,0 +1,30 @@
+The purpose of this data science based project is to gain a better understanding of the process of
+building a data pipeline
+
+Pipeline:
+
+grab data, verify reliability, etc. ->
+    inspect, analyze, clean, potentially morph into different shape, etc. ->
+        descriptive statistics, graphing, etc. ->
+            build models, verify them, tune, make sure you understand theoretical and application contexts ->
+                test models on various datasets to help with previous step ->
+                    let data flow through the models ->
+                        analyze results, prepare findings for others
+
+7 step process for any data related problem
+
+The problem of focus here is modeling financial crashes
+
+Follow the book, and build those models from almost scratch in python
+
+Almost from scratch as opposed to 100% from scratch
+    These models may already exist in code, but just use 
+        mpl, numpy, and pandas, for all the number crunching, data management + graphing
+        depending on what problems come up any and all libraries can be included because the 
+        goal is to output elegance
+
+        you got this shit go get it bud
+
+he will never be satisfied...........
+
+

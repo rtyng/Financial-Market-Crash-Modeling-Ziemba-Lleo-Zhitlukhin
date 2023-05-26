@@ -1,0 +1,26 @@
+ie_data 
+
+"
+Stock market data used in my book, Irrational Exuberance [Princeton University Press 2000, Broadway Books 2001, 2nd ed., 2005] are available for download, U.S. Stock Markets 1871-Present and CAPE Ratio. This data set consists of monthly stock price, dividends, earnings data, and the consumer price index (to allow conversion to real values), starting January 1871. The price, dividend, and earnings series are from the same sources as described in Chapter 26 of my earlier book (Market Volatility [Cambridge, MA: MIT Press, 1989]), although now I use monthly data, rather than annual data. Monthly dividend and earnings data are computed from the S&P four-quarter totals for the quarter since 1926, with linear interpolation to monthly figures. Dividend and earnings data before 1926 are from Cowles and associates (Common Stock Indexes, 2nd ed. [Bloomington, Ind.: Principia Press, 1939]), interpolated from annual data. Stock price data are monthly averages of daily closing prices through January 2000, the last month available as this book goes to press. The CPI-U (Consumer Price Index-All Urban Consumers) published by the U.S. Bureau of Labor Statistics begins in 1913; for years before 1913 1 spliced to the CPI Warren and Pearson's price index, by multiplying it by the ratio of the indexes in January 1913. December 1999 and January 2000 values for the CPI-Uare extrapolated. See George F. Warren and Frank A. Pearson, Gold and Prices (New York: John Wiley and Sons, 1935). Data are from their Table 1, pp. 11–14.
+"
+
+linear interpolation link - "https://en.wikipedia.org/wiki/Linear_interpolation"
+basically, it just fills in the gaps and allows monthly dividend and earnings data to be filled in from the s&p quarterly reports 
+
+ie_data_with_TRCAPE
+
+"
+As of September 2018, I now also include an alternative version of CAPE that is somewhat different. As documented in Bunn & Shiller (2014) and Jivraj and Shiller (2017), changes in corporate payout policy (i. e. share repurchases rather than dividends have now become a dominant approach in the United States for cash distribution to shareholders) may affect the level of the CAPE ratio through changing the growth rate of earnings per share. This subsequently may affect the average of the real earnings per share used in the CAPE ratio. A total return CAPE corrects for this bias through reinvesting dividends into the price index and appropriately scaling the earnings per share.
+"
+
+Fig3-1
+
+"
+Historical housing market data used in my book, Irrational Exuberance [Princeton University Press 2000, Broadway Books 2001, 2nd edition, 2005], showing home prices since 1890 are available for download and updated monthly: US Home Prices 1890-Present.
+"
+
+chapt26
+
+"
+An annual series is also available here, long term stock, bond, interest rate and consumption data since 1871 that I in collaboration with several colleagues collected to examine long term historical trends in the US market. This is Chapter 26 from my book Market Volatility, 1989, and  revised and updated.
+"
