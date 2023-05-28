@@ -21,10 +21,7 @@ Almost from scratch as opposed to 100% from scratch
     These models may already exist in code, but just use 
         mpl, numpy, and pandas, for all the number crunching, data management + graphing
         depending on what problems come up any and all libraries can be included because the 
-        goal is to output elegance
+        goal is output
 
-        you got this shit go get it bud
-
-he will never be satisfied...........
 
 

@@ -1,0 +1,131 @@
+randy@LAPTOP-FPN0G8I2 MINGW64 ~/PrivateGPT/privateGPT (main)
+$ python privateGPT.py
+Using embedded DuckDB with persistence: data will be stored in: db
+Found model file.
+gptj_model_load: loading model from 'models/ggml-gpt4all-j-v1.3-groovy.bin' - please wait ...
+gptj_model_load: n_vocab = 50400
+gptj_model_load: n_ctx   = 2048
+gptj_model_load: n_embd  = 4096
+gptj_model_load: n_head  = 16
+gptj_model_load: n_layer = 28
+gptj_model_load: n_rot   = 64
+gptj_model_load: f16     = 2
+gptj_model_load: ggml ctx size = 5401.45 MB
+gptj_model_load: kv self size  =  896.00 MB
+gptj_model_load: ................................... done
+gptj_model_load: model size =  3609.38 MB / num tensors = 285
+
+Enter a query: Can you summarize the mathematics used in this documnet?
+ There is no specific document given to answer these questions as it discusses mathematical concepts, theories and their applications related to finance or investing over a period of time. The context provides information on transmission methods such as oral presentations at conferences but does not mention any mathematics used in the book itself apart from certain equations that are cited without explanation for example "G(t) = t^4 + b" which can be found here: https://www2eecs2411-info.yaleabr0b5i12h6a1d3q9u7/~jamesmason     .
+ There is no specific document given to answer these questions as it discusses mathematical concepts, theories and their applications related to finance or investing over a period of time. The context provides information on transmission methods such as oral presentations at conferences but does not mention any mathematics used in the book itself apart from certain equations that are cited without explanation for example "G(t) = t^4 + b" which can be found here: https://www2eecs2411-info.yaleabr0b5i12h6a1d3q9u7/~jamesmason     .
+
+> Question:
+Can you summarize the mathematics used in this documnet?
+
+> Answer:
+ There is no specific document given to answer these questions as it discusses mathematical concepts, theories and their applications related to finance or investing over a period of time. The context provides information on transmission methods such as oral presentations at conferences but does not mention any mathematics used in the book itself apart from certain equations that are cited without explanation for example "G(t) = t^4 + b" which can be found here: https://www2eecs2411-info.yaleabr0b5i12h6a1d3q9u7/~jamesmason     .
+
+> source_documents\Robert J. Shiller - Irrational Exuberance-Princeton University Press (2015).pdf:
+understanding   that    this    book    is      intended        to      provide.
+
+> source_documents\Robert J. Shiller - Irrational Exuberance-Princeton University Press (2015).pdf:
+such     as      the     mathematics     of      finance,        or      statistics      about   asset   returns,        or      optimal
+levels   of      saving  for     retirement.     Transmission    of      such    knowledge       is      of      course
+effortful,      infrequent,     and     imperfect.
+
+> source_documents\Robert J. Shiller - Irrational Exuberance-Princeton University Press (2015).pdf:
+the     sum     of      three   innovations:
+
+> source_documents\Robert J. Shiller - Irrational Exuberance-Princeton University Press (2015).pdf:
+My       colleagues      at      the     Cowles  Foundation      for     Research        in      Economics       at      Yale
+University—Glena         Ames,   Donald  Brown,  Stefan  Krieger,        Stephen         Morris,         and
+William  Nordhaus—have   been    a       great   help.   I       must    also    take    this    occasion        to
+express gratitude       to      our     late    founder,        Alfred  Cowles  III,    an      investment      manager in
+the      early   part    of      this    century         and     patron  of      mathematical    economics,      who
+tabulated       the     pre-1926        dividend        and     earnings        data    used    in      this    book.
+
+Enter a query: Could you explain to me the 3 most important economic principles from the text?
+ The three most important concepts discussed in this passage are (1) time inconsistency, which arises when individuals' beliefs and behaviors diverge due to changes over time; (2.5) basic truth of capitalism system's instabilities, as shown by its instability or weak links that suggest a fundamental underlying structure may be present for the whole theory on markets; (3).The author has cited examples about stock price fluctuations in different periods affecting people and economies differently due to various causes such as changes over time. He emphasizes one example where he mentions how stocks were priced based on expectations of future dividends, which changed throughout history causing a long-term impact that we can see today's high volatility still being present even after the adventof modern technology (3).
+ The three most important concepts discussed in this passage are (1) time inconsistency, which arises when individuals' beliefs and behaviors diverge due to changes over time; (2.5) basic truth of capitalism system's instabilities, as shown by its instability or weak links that suggest a fundamental underlying structure may be present for the whole theory on markets; (3).The author has cited examples about stock price fluctuations in different periods affecting people and economies differently due to various causes such as changes over time. He emphasizes one example where he mentions how stocks were priced based on expectations of future dividends, which changed throughout history causing a long-term impact that we can see today's high volatility still being present even after the adventof modern technology (3).
+
+> Question:
+Could you explain to me the 3 most important economic principles from the text?
+
+> Answer:
+ The three most important concepts discussed in this passage are (1) time inconsistency, which arises when individuals' beliefs and behaviors diverge due to changes over time; (2.5) basic truth of capitalism system's instabilities, as shown by its instability or weak links that suggest a fundamental underlying structure may be present for the whole theory on markets; (3).The author has cited examples about stock price fluctuations in different periods affecting people and economies differently due to various causes such as changes over time. He emphasizes one example where he mentions how stocks were priced based on expectations of future dividends, which changed throughout history causing a long-term impact that we can see today's high volatility still being present even after the adventof modern technology (3).
+
+> source_documents\Robert J. Shiller - Irrational Exuberance-Princeton University Press (2015).pdf:
+persisted       for     a       long    time    shows   that    markets are     inefficient.    On      the     other   hand,
+the     fact    that    many    of      them    have    weakened        suggests        that    there   is      a       basic   truth   to
+the     theory.25
+
+> source_documents\Robert J. Shiller - Irrational Exuberance-Princeton University Press (2015).pdf:
+about   the     instabilities   of      the     capitalist      system.
+
+> source_documents\Robert J. Shiller - Irrational Exuberance-Princeton University Press (2015).pdf:
+Robbins,        Lionel. 1932.   An      Essay   on      the     Nature  and     Significance    of      Economic        Science.        London: Macmillan.
+
+Rothman,         James   E.      2013.   “The    Principle       of      Membrane        Fusion  in      the     Cell.”  Prize   Lecture         for     2013    Nobel
+
+Prize   in      Medicine.       http://www.nobelprize.org/mediaplayer/index.php?id=1975.
+
+Saunders,       Edward  M.      1993.   “Stock  Prices  and     Wall    Street  Weather.”       American        Economic        Review  83(5):1337–
+
+45.
+
+Savage, Leonard J.      1954.   Foundations     of      Statistics.     New     York:   Wiley.
+
+> source_documents\Robert J. Shiller - Irrational Exuberance-Princeton University Press (2015).pdf:
+To       my      wife,   Virginia        Shiller,        who     is      a       clinical        psychologist    at      the     Yale    Child
+Study    Center,         I       owe     fundamental     gratitude       for     getting         me      really  interested      in
+psychology      and     convincing      me      of      its     importance      in      economics.      She     has     given   the
+most    careful reading and     criticism       to      the     entire  book    and     has     helped  me      greatly
+in      articulating    my      ideas.  She     also    kept    the     home    fires   burning while   I       spent   long
+days    and     nights  working.
+
+
+One
+
+The     Stock   Market  in      Historical      Perspective
+
+
+this output above took some time, I think due the size of the text
+
+Hopefully this question can reduce compute time?
+
+Enter a query: Wow. Could you hone in on the time inconsistency idea? Give examples from the book but keep it brief.
+
+I think the prompt wasn't good enough but not entirely sure yet bc i do not think it has been a minute.
+
+Enter a query: Wow. Could you hone in on the time inconsistency idea? Give examples from the book but keep it brief.
+ The chapter "Time Inconsistency and Rational Choice" of Chapter 9 discusses how human preferences can cause problems with economic decisions due to their non-deterministic nature, as individuals may make choices that are inconsistent over a long period or in unpredictable situations (p115). One example given is the famous time inconsistency problem faced by agents playing auction games who do not update information about other players' behavior. The solution discussed involves incorporating additional parameters such as past performance and reputation into decision making to overcome this issue, although it may lead to higher complexity of models used for analysis compared with classical approaches (p118).
+ The chapter "Time Inconsistency and Rational Choice" of Chapter 9 discusses how human preferences can cause problems with economic decisions due to their non-deterministic nature, as individuals may make choices that are inconsistent over a long period or in unpredictable situations (p115). One example given is the famous time inconsistency problem faced by agents playing auction games who do not update information about other players' behavior. The solution discussed involves incorporating additional parameters such as past performance and reputation into decision making to overcome this issue, although it may lead to higher complexity of models used for analysis compared with classical approaches (p118).
+
+> Question:
+Wow. Could you hone in on the time inconsistency idea? Give examples from the book but keep it brief.
+
+> Answer:
+ The chapter "Time Inconsistency and Rational Choice" of Chapter 9 discusses how human preferences can cause problems with economic decisions due to their non-deterministic nature, as individuals may make choices that are inconsistent over a long period or in unpredictable situations (p115). One example given is the famous time inconsistency problem faced by agents playing auction games who do not update information about other players' behavior. The solution discussed involves incorporating additional parameters such as past performance and reputation into decision making to overcome this issue, although it may lead to higher complexity of models used for analysis compared with classical approaches (p118).
+
+> source_documents\Robert J. Shiller - Irrational Exuberance-Princeton University Press (2015).pdf:
+with.   But     that    is      the     nature  of      history,        and     such    ambiguity       justifies       the     constant
+search  for     new     and     better  information     to      expose  at      least   the     overall contours        of
+causation.
+
+> source_documents\Robert J. Shiller - Irrational Exuberance-Princeton University Press (2015).pdf:
+Although         the     precise         causal  links   are     hard    to      disentangle     even    in      these
+
+> source_documents\Robert J. Shiller - Irrational Exuberance-Princeton University Press (2015).pdf:
+I       have    revised the     book    in      this    second  edition to      try     to      extend  its     argument        that
+variations       caused  by      changing        attitudes,      irrational      beliefs,        and     foci    of      attention
+are      an      important       factor  in      our     changing        economic        lives,  and     to      examine         the
+consequences    for     our     economy and     our     future. I       have    recast  the     examples        of      these
+variations      in      terms   of      more    recent  events. Notably,        I       have    added   a       chapter about
+
+> source_documents\Robert J. Shiller - Irrational Exuberance-Princeton University Press (2015).pdf:
+Financial        theory  has     also    advanced        to      allow   us      a       better  understanding   of      the
+effects  of      the     ambiguity       regarding       probabilities,  the     fundamental     difficulties    in
+placing  numerical       values  for     probabilities,  that    Keynes  spoke   of      (Bew    ley     2002,
+Bracha  and     Brown   2013).
+
+

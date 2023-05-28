@@ -10,4 +10,6 @@ Part I
 Data loading, cleaning, inspection, deconstruction and reconstruction
 """
 
+# load data
+
 
