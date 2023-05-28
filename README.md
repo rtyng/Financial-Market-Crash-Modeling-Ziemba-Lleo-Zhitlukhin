@@ -22,3 +22,5 @@ K(t) == Time varying threshold for the signal
 These crash prediction models generate a signal over a given time horizon H that indicates a downturn in the equity market.
 
 The purpose of this repository will be to process the Shiller dataset for analysis, build the BSEYD model using the variables from Shiller's data, then visualize and interpret the results. More information on the datasets can be found within the 3 txt files I will try to make them more organized as more work is put in.
+
+In order to be more organized, each part of the pipeline will be in seperate scripts and then merged into one script for a compact analysis script.
