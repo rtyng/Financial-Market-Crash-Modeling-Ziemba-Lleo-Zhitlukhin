@@ -129,3 +129,63 @@ placing  numerical       values  for     probabilities,  that    Keynes  spoke  
 Bracha  and     Brown   2013).
 
 
+randy@LAPTOP-FPN0G8I2 MINGW64 ~/PrivateGPT/privateGPT (main)
+$ python privateGPT.py
+Using embedded DuckDB with persistence: data will be stored in: db
+Found model file.
+gptj_model_load: loading model from 'models/ggml-gpt4all-j-v1.3-groovy.bin' - please wait ...
+gptj_model_load: n_vocab = 50400
+gptj_model_load: n_ctx   = 2048
+gptj_model_load: n_embd  = 4096
+gptj_model_load: n_head  = 16
+gptj_model_load: n_layer = 28
+gptj_model_load: n_rot   = 64
+gptj_model_load: f16     = 2
+gptj_model_load: ggml ctx size = 5401.45 MB
+gptj_model_load: kv self size  =  896.00 MB
+gptj_model_load: ................................... done
+gptj_model_load: model size =  3609.38 MB / num tensors = 285
+
+Enter a query: can you please summarize the history of all the variables in the excel sheet only. Please use the textbook for context but focus on the variables in the excel sheet 
+ I apologize that my previous response was not helpful as it did not provide any information about how to answer this question based solely upon Excel sheets without further referencing a specific text or study guide. Could you please clarify your request and specify which textbook, academic paper/article, etc., would be more appropriate for the purpose of summarizing variables from an excel sheet?
+ I apologize that my previous response was not helpful as it did not provide any information about how to answer this question based solely upon Excel sheets without further referencing a specific text or study guide. Could you please clarify your request and specify which textbook, academic paper/article, etc., would be more appropriate for the purpose of summarizing variables from an excel sheet?
+
+> Question:
+can you please summarize the history of all the variables in the excel sheet only. Please use the textbook for context but focus on the variables in the excel sheet
+
+> Answer:
+ I apologize that my previous response was not helpful as it did not provide any information about how to answer this question based solely upon Excel sheets without further referencing a specific text or study guide. Could you please clarify your request and specify which textbook, academic paper/article, etc., would be more appropriate for the purpose of summarizing variables from an excel sheet?
+
+> source_documents\Robert J. Shiller - Irrational Exuberance-Princeton University Press (2015).pdf:
+Dimson,  Elroy,  Paul    Marsh,  and     Mike    Staunton.       Triumph         of     the      Optimists:      101     Years   of      Global  Investment
+
+History.        Princeton,      N.J.:   Princeton       University      Press,  2002.   
+
+Dornbusch,      Rudiger,        and     Stanley Fischer.        “The    Open    EconomyImplications     for     Monetary        and     Fiscal  Policy,”
+in      Robert  J.      Gordon  (ed.),  The     American        Business        Cycle: Continuity       and     Change. Chicago:        National        Bureau  of
+Economic        Research        and     University      of      Chicago Press,  1986,  pp.      459–501.
+
+> source_documents\Robert J. Shiller - Irrational Exuberance-Princeton University Press (2015).pdf:
+spending         in      the     early   years   of      the     twenty-first    century,        and     to      a       worldwide
+recession.
+
+> source_documents\Robert J. Shiller - Irrational Exuberance-Princeton University Press (2015).pdf:
+decline in      home    prices  (which  never   came)   or      for     their   savingsto       increase        to      the
+point   that    they    could   afford  housing.        The     fact    that,   after  World    War     I,      real    home
+prices  had     gone    through a       protracted      period  of      decline must   also     have    served  to
+diffuse  any     speculative     worries.        People  must    have    remembered     that     episode         in
+the      aftermath       of      World   War     II.     A       widespread      worry  then     that    the     Great
+Depression       of      the     1930s   would   reappear        after   the     stimulus        of      the     war     ended
+
+> source_documents\Robert J. Shiller - Irrational Exuberance-Princeton University Press (2015).pdf:
+John    Campbell        and     John    Ammer   (1993)  did     a       variation      decomposition    (along
+lines   developed       in      Campbell        1991)   of      unexpected      excess returns  using   time    series
+methods  and     U.S.    postwar         data.   The     decomposition   is      based  on       the     log
+linearization   of      the     present value   relation        used    in      Campbeland      Shiller (1988b).
+The     time-t  +       1       innovation      Et      +       1       −       Et     in       the     excess  return  over    the     risk-free       rate
+et      +       1       can     be      shown,  with    a       terminal        stationarity    condition,      as      a       tautology,      to      be
+
+Enter a query: exit
+(privateGPT)
+
+5/28/2023 12:35 am gotta take an Apex break
