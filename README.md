@@ -1,9 +1,30 @@
 # Financial-Market-Crash-Modeling-Ziemba-Lleo-Zhitlukhin
-Beginnings of model implementation
+
+# BSEYD Model comes from "Stock Market Crashes Predictable and Unpredictable and What to do about them" 
+    # by William T. Ziemba, Sebastian Lleo, and Mikhail Zhitlukin
+
 
 Built and maintained by Randolph Tyng
 
-What is the bond-stock earnings yield differential and what is a crash signal?
+# The purpose of this data science based project is to gain a better understanding of the process of
+# building a data pipeline
+
+Pipeline:
+
+grab data, verify reliability, etc. ->
+    inspect, analyze, clean, potentially morph into different shape, etc. ->
+        descriptive statistics, graphing, etc. ->
+            build models, verify them, tune, make sure you understand theoretical and application contexts ->
+                test models on various datasets to help with previous step ->
+                    let data flow through the models ->
+                        analyze results, prepare findings for others
+
+7 step process for data related problems
+
+The area of focus here is modeling financial crashes
+
+
+# What is the bond-stock earnings yield differential and what is a crash signal?
 
 The model came from the idea that investor dollars are always in competition between being sent into bonds or stocks depending on the interest rate. When rates are low, investor
 dollars tend to flow into stocks and the reverse (higher rates, dollars flow towards bonds) is also true. 
