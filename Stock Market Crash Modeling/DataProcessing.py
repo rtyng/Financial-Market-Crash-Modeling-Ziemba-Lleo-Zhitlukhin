@@ -1,9 +1,10 @@
-# This script is a data pipeline. Shiller's Stock Market data 1871-present w/CAPE ratio
-
+# This script is using Shiller's Stock Market data 1871-present w/CAPE ratio
 
 import pandas as pd
 import numpy as np 
 import matplotlib.pyplot as plt 
+
+#how in the mother of god am i getting an import error?
 
 """
 Part I
@@ -16,6 +17,6 @@ chapt_df = pd.read_excel("chapt26copy.xlsx")
 
 # data processing, cleaning, formatting, etc.
 chapt_df = chapt_df.dropna()
-chapt_df.head()
+print(chapt_df.head(), "\n", chapt_df.tail())
 
 
