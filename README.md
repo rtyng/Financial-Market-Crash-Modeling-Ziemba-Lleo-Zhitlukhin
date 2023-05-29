@@ -1,17 +1,14 @@
 # Financial-Market-Crash-Modeling-Ziemba-Lleo-Zhitlukhin
 
-# BSEYD Model comes from "Stock Market Crashes Predictable and Unpredictable and What to do about them" 
-    # by William T. Ziemba, Sebastian Lleo, and Mikhail Zhitlukin
-
+# BSEYD Model comes from "Stock Market Crashes Predictable and Unpredictable and What to do about them" by William T. Ziemba, Sebastian Lleo, and Mikhail Zhitlukin
 
 Built and maintained by Randolph Tyng
 
-# The purpose of this data science based project is to gain a better understanding of the process of
-# building a data pipeline
+# The purpose of this data science based project is to gain a better understanding of the process of building a data pipeline
 
 Pipeline:
 
-grab data, verify reliability, etc. ->
+# grab data, verify reliability, etc. ->
     inspect, analyze, clean, potentially morph into different shape, etc. ->
         descriptive statistics, graphing, etc. ->
             build models, verify them, tune, make sure you understand theoretical and application contexts ->
@@ -36,9 +33,9 @@ What about the crash signal?
 
 The crash signal is defined as S(t) = M(t) - K(t) > 0
 
-M(t) == Crash prediction measure
-S(t) == Crash signal
-K(t) == Time varying threshold for the signal
+# M(t) == Crash prediction measure
+# S(t) == Crash signal
+# K(t) == Time varying threshold for the signal
 
 These crash prediction models generate a signal over a given time horizon H that indicates a downturn in the equity market.
 
