@@ -4,13 +4,6 @@ import pandas as pd
 import numpy as np 
 import matplotlib.pyplot as plt 
 
-#how in the mother of god am i getting an import error?
-
-"""
-Part I
-Data loading, cleaning, inspection, deconstruction and reconstruction
-"""
-
 # load chapt26copy.xlsx, keep original for reference materials in sheet
 
 chapt_df = pd.read_excel("chapt26copy.xlsx")
