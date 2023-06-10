@@ -6,10 +6,13 @@ import matplotlib.pyplot as plt
 
 # load chapt26copy.xlsx, keep original for reference materials in sheet
 
-chapt_df = pd.read_excel("chapt26copy.xlsx")
+# need to split excel data sheet in two
+    # theres 2 time columns to seperate the inflation adjusted variables from the non-inflation adjusted variables
+chapt_df = pd.read_excel("chapt26copy.xlsx", header=2, skiprows=7, names=None)
+
 
 # data processing, cleaning, formatting, etc.
-chapt_df = chapt_df.dropna()
-print(chapt_df.head(), "\n", chapt_df.tail())
+print(chapt_df.head())
+
 
 
