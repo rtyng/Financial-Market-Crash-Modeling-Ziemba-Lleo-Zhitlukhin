@@ -1,4 +1,4 @@
-randy@LAPTOP-FPN0G8I2 MINGW64 ~/PrivateGPT/privateGPT (main)
+
 $ python privateGPT.py
 Using embedded DuckDB with persistence: data will be stored in: db
 Found model file.
@@ -129,7 +129,6 @@ placing  numerical       values  for     probabilities,  that    Keynes  spoke  
 Bracha  and     Brown   2013).
 
 
-randy@LAPTOP-FPN0G8I2 MINGW64 ~/PrivateGPT/privateGPT (main)
 $ python privateGPT.py
 Using embedded DuckDB with persistence: data will be stored in: db
 Found model file.
@@ -188,4 +187,3 @@ et      +       1       can     be      shown,  with    a       terminal        
 Enter a query: exit
 (privateGPT)
 
-5/28/2023 12:35 am gotta take an Apex break
